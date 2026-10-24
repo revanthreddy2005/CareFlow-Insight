@@ -41,6 +41,10 @@ The simulated dataset indicated:
 - Inpatient claims had a higher average turnaround time than outpatient claims.
 - Claims with rework generally showed longer turnaround times, although some high-rework groups were small.
 
+## Dashboard Preview
+
+![CareFlow Insight Power BI Dashboard](dashboard.png)
+
 ## Recommendations
 - Introduce a documentation completeness checklist before claim submission.
 - Review Team B's workflow to identify potential bottlenecks.
